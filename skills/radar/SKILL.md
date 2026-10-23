@@ -17,7 +17,7 @@ description: |
 BASE_URL=https://news.learnprompt.pro/data
 ```
 
-**fork / 自部署用户只需要改这一行**，换成 `https://<用户名>.github.io/ai-news-radar/data`。GitHub Pages 是数据的 canonical 源，不要换成其他镜像域名。第一次发现用户有自己的部署时问一次，之后记住。
+**fork / 自部署用户只需要改这一行**，换成 `https://tomuzhibo-ux.github.io/ai-news-radar/data`。GitHub Pages 是数据的 canonical 源，不要换成其他镜像域名。第一次发现用户有自己的部署时问一次，之后记住。
 
 数据是静态 JSON：**没有 API Key，没有 UA 黑名单，没有限流，curl 就行**。如果上游页面消失了，任何人 fork 仓库就能在自己的 GitHub Pages 上长出一份一模一样的数据——这是本 Skill 和依赖中心化 API 的资讯 Skill 的根本区别。
 
