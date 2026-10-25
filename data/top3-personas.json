@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:55:35.281802Z",
+  "generated_at": "2026-10-25T07:49:44.056614Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_59aa6c306989",
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
+      "story_id": "story_2f3ba85cae57",
+      "title": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "url": "https://github.com/google-gemini/gemini-cli",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 52,
-          "review": "低延迟、低成本，两个形容词撑起一篇发布稿，P99 和每千次报价呢？"
+          "score": 70,
+          "review": "终端 Agent 这想法并不新鲜，Claude Code 和 aider 早就抢先做了；它好在开源和免费额度，是真货。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客只有产品公告，延迟和成本的数字、评测一概没有，拿文档实测再说。"
+          "score": 72,
+          "review": "代码开源可clone可跑，属实证；但未见独立评测与基准，能力宣称还得自己验。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "小决策专用低延迟API，分类、路由、审核这类场景今天就能接。"
+          "score": 86,
+          "review": "开源可直接 clone，终端里就能跑 Gemini agent，今天装就能用。"
         }
       }
     },
     {
-      "story_id": "story_b096e4b4df6f",
-      "title": "OlmoEarth v1.3：覆盖全球的最先进 embeddings / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "story_id": "story_7a4322ec5389",
+      "title": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "版本号从 v1.x 挪了 0.1 就敢叫「全星球最强」，跨大洲基准分数先贴出来再聊。"
+          "score": 50,
+          "review": "它用一段提示词教 AI 别套路化，却没给出任何效果数据；产品没数据，本身就是它想治的病。"
         },
         "paper-police": {
-          "score": 48,
-          "review": "SOTA是自家博客宣称，权重和评测脚本未见，无法复现较真。"
+          "score": 58,
+          "review": "仓库开源，代码可查，但“反套路化”效果没有评测基准，得靠实际案例出结果。"
         },
         "pragmatic": {
-          "score": 84,
-          "review": "开源遥感 embedding，做地球观测下游任务的今天就能拉权重接上。"
+          "score": 70,
+          "review": "clone 就能给 Cursor/Claude Code 加个反模板化审美的 prompt，前端出图党可试，别期待质变。"
         }
       }
     },
     {
-      "story_id": "story_9a1340c7e8eb",
-      "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+      "story_id": "story_a2b6dffb1943",
+      "title": "1Password for Agents——让AI agent替你登录，无需看到你的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+      "url": "https://www.producthunt.com/products/1password",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "开源权重算干货，但\"100 万亿 Token\"是自家计数器，每秒近 4 亿，这账谁核过？"
+          "score": 68,
+          "review": "代登录不给密码，本质是权限代理；先公开审计日志和滥用场景再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "开源是加分项，但论文和跑分都缺，官方自报的百亿亿级 Token 用量无人可验。"
+          "score": 32,
+          "review": "只有 Product Hunt 上线页（且两源重复），无技术文档、无代码、无第三方验证，宣称的密码隔离无法核实。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源权重可下载，428B 总参数配 Flash 定位，本地部署或换 API 前先跑 benchmark 看实际成本。"
+          "score": 68,
+          "review": "给 agent 授临时凭证的想法对路，但先等文档和 SDK 放出来再动手。"
         }
       }
     }

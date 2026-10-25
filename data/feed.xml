@@ -5,167 +5,127 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 11:46:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 07:34:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>把数据库评分变成 RL 奖励：用 ThinkingBox 后训练 Agent / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<description>把数据库判分当 RL 奖励的思路能借鉴，没放出可跑代码前只是方法速览。（Hugging Face Blog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-</item>
-<item>
-<title>Visual Studio 中的 GitHub Copilot——9 月更新 / GitHub Copilot in Visual Studio — September update</title>
-<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
-<description>在 VS 里写 C# 的现在就能更新插件上手；用 VS Code 或 JetBrains 的不用管。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI与波兰NASK合作推进AI安全与保障 / OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-<link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-<description>政府合作备忘录，没有 API 或工具开放，对开发者当天工作零影响。（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>不止于树木覆盖：绘制全球森林类型地图 / Beyond tree cover: mapping the world’s forest types</title>
-<link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types</link>
-<guid isPermaLink="true">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types</guid>
-<description>遥感生态方向的可查数据集是否开放；不做地理信息的直接跳过。（Google DeepMind）</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-</item>
-<item>
-<title>用量指标 API 现已支持自定义 skills、agents 和 MCP servers / Custom skills, agents, and MCP servers in usage metrics API</title>
-<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
-<description>管 Copilot 的组织管理员能马上接入统计自定义 agent/MCP 的用量，普通开发者先不用管。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
-</item>
-<item>
-<title>OlmoEarth v1.3：覆盖全球的最先进 embeddings / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
-<link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
-<description>开源遥感 embedding，做地球观测下游任务的今天就能拉权重接上。（Hugging Face Blog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API</title>
-<link>https://openai.com/index/decisions-api</link>
-<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
-<description>小决策专用低延迟API，分类、路由、审核这类场景今天就能接。（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion</title>
-<link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion</guid>
-<description>融资和估值跟写代码没关系，等模型降价或新接口出来再看。（The Decoder：AI News（RSS））</description>
+<title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
+<link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</link>
+<guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</guid>
+<description>跑多智能体沙箱的该警惕隔离漏风，普通业务开发暂时不用改代码。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
 </item>
 <item>
-<title>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</title>
-<link>https://www.ithome.com/1/017/113.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/017/113.htm</guid>
-<description>政策文件不改变你今天写的代码，等具体补贴或资质细则落地再说。（IT之家·人工智能）</description>
+<title>Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...</title>
+<link>https://x.com/emollick/status/2114001653879672877</link>
+<guid isPermaLink="true">https://x.com/emollick/status/2114001653879672877</guid>
+<description>跑 agent 的该复查沙箱隔离，但推文没给细节，先别慌。（X：Ethan Mollick (@emollick)）</description>
 <category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
 </item>
 <item>
-<title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
-<link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
-<description>人事八卦，不影响你的接口和账单，扫一眼就翻页。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
+<title>sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等 / sideOS.ai — Local AI for dictation, meetings, background tasks and more</title>
+<link>https://www.producthunt.com/products/sideos-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/sideos-ai</guid>
+<description>本地语音听写加会议记录的工具，能试用但同质化严重，除非隐私刚需否则不必急着换。（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 25 Oct 2026 07:25:33 +0000</pubDate>
 </item>
 <item>
-<title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
-<link>https://www.aibase.com/news/31834</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
-<description>形式化验证的演示性成果，没放出工具或数据，先记着，别急着改流程。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 10:03:57 +0000</pubDate>
+<title>Cerebras 部署了万亿参数的人工智能模型</title>
+<link>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</link>
+<guid isPermaLink="true">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</guid>
+<description>看看就好：Cerebras 硬件多数人用不上，等它的推理 API 对外开放定价再说。（www.cerebras.ai）</description>
+<category>多源热议</category>
+<pubDate>Sun, 25 Oct 2026 07:05:49 +0000</pubDate>
 </item>
 <item>
-<title>Copilot 功能全球默认正式可用 / Global default for Copilot features generally available</title>
-<link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</guid>
-<description>功能变默认开启，组织策略会被动变更，建议去后台核对开关和代码引用设置。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 20:44:28 +0000</pubDate>
+<title>zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件 / zCAD AI — AI 3D that creates real parts, not just shapes</title>
+<link>https://www.producthunt.com/products/zcad-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/zcad-ai</guid>
+<description>能上手试的 CAD 生成工具，但没看到价格和导出格式，做结构件的先拿免费额度验证精度。（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 25 Oct 2026 07:25:53 +0000</pubDate>
 </item>
 <item>
-<title>Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.</title>
-<link>https://x.com/claudeai/status/2113360845409583307</link>
-<guid isPermaLink="true">https://x.com/claudeai/status/2113360845409583307</guid>
-<description>默认切自动模式，模型选择和账单行为会变，Pro/Team 用户下周先摸清怎么关。（X：Claude (@claudeai)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
+<title>Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</title>
+<link>https://github.com/Nutlope/hallmark</link>
+<guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
+<description>clone 就能给 Cursor/Claude Code 加个反模板化审美的 prompt，前端出图党可试，别期待质变。（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 12:40:41 +0000</pubDate>
 </item>
 <item>
-<title>The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑 / Sure, let’s smoosh SpaceX and Tesla together, who cares</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</guid>
-<description>两家公司合不合并跟写代码没关系，纯资本叙事，扫一眼标题即可。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
+<title>为什么人工智能生成的语言这么难懂？</title>
+<link>https://arxiv.org/abs/2610.29162</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
+<description>学术分析类论文，读完也改不了 prompt，等有可复用的解码策略再说。（arxiv.org）</description>
+<category>多源热议</category>
+<pubDate>Sun, 25 Oct 2026 01:04:53 +0000</pubDate>
 </item>
 <item>
-<title>Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science / Building Medical Superintelligence</title>
-<link>https://microsoft.ai/news/building-medical-superintelligence</link>
-<guid isPermaLink="true">https://microsoft.ai/news/building-medical-superintelligence</guid>
-<description>医疗诊断基准和系统，非医疗 AI 团队今天没法用，记个名字即可。（Microsoft AI：官方博客（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 18:01:00 +0000</pubDate>
+<title>科技行业以外尚未出现人工智能带来回报的迹象</title>
+<link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
+<guid isPermaLink="true">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</guid>
+<description>宏观ROI讨论，不改变你今天写什么代码，扫一眼即可。（www.apollo.com）</description>
+<category>多源热议</category>
+<pubDate>Sun, 25 Oct 2026 01:04:53 +0000</pubDate>
 </item>
 <item>
-<title>404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局 / AI Is Changing Everything About Hacking. No One Knows What Happens Next</title>
-<link>https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</link>
-<guid isPermaLink="true">https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</guid>
-<description>讲攻防趋势但没给任何可落地的检测或修复方法，读完只需顺手查下自己依赖版本。（404 Media（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
+<title>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？</title>
+<link>https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</link>
+<guid isPermaLink="true">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</guid>
+<description>宏观就业统计，看完也改不了你明天的代码，招聘市场另说。（www.apricitas.io）</description>
+<category>多源热议</category>
+<pubDate>Sun, 25 Oct 2026 01:05:14 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</title>
-<link>https://www.newcomer.co/p/the-story-of-anthropics-cap-table</link>
-<guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
-<description>股权表再精彩也不影响你调 API，纯资本圈八卦。（Newcomer 新闻长文（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
+<title>1Password for Agents——让AI agent替你登录，无需看到你的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords</title>
+<link>https://www.producthunt.com/products/1password</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/1password</guid>
+<description>给 agent 授临时凭证的想法对路，但先等文档和 SDK 放出来再动手。（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 25 Oct 2026 07:08:54 +0000</pubDate>
 </item>
 <item>
-<title>METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems</title>
-<link>https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</link>
-<guid isPermaLink="true">https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</guid>
-<description>做 Agent 监控的可以看看红队怎么绕过检测，普通业务开发不用管。（Redwood Research：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 15:32:17 +0000</pubDate>
+<title>google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.</title>
+<link>https://github.com/google-gemini/gemini-cli</link>
+<guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
+<description>开源可直接 clone，终端里就能跑 Gemini agent，今天装就能用。（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 12:40:41 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</guid>
-<description>开源权重可下载，428B 总参数配 Flash 定位，本地部署或换 API 前先跑 benchmark 看实际成本。（公众号：MiniMax（稀宇科技））</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
+<title>Oai-math-revised：一个用于修订 OpenAI 数学文稿的社区平台 / Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
+<link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</link>
+<guid isPermaLink="true">https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</guid>
+<description>数学圈协作校对平台，跟写代码没关系，扫一眼标题就够。（Hacker News (黑客新闻)）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
 </item>
 <item>
-<title>PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应 / Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
-<link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</link>
-<guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</guid>
-<description>跑 PHP 的今天就去打补丁，四天先手窗口意味着已被扫过一轮。（Ars Technica：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
+<title>一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
+<link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</link>
+<guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</guid>
+<description>LLM 生成的引用必须逐条核实，别让不存在的文献出现在你的稿子里。（Hacker News · 24h最热）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+</item>
+<item>
+<title>pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆</title>
+<link>https://github.com/pollen-robotics/microduck</link>
+<guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+<description>开源硬件图纸能 clone，但受众只有机器人玩家，写软件的看看就好。（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 12:40:41 +0000</pubDate>
+</item>
+<item>
+<title>Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
+<link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
+<guid isPermaLink="true">https://gitlab.com/c4psu13/mali-pagecache-root</guid>
+<description>电视能 root 了但仅限特定 TCL 机型，先试试固件版本再刷。（Hacker News · 24h最热）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
 </item>
 </channel>
 </rss>

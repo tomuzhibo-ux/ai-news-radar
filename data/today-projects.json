@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T11:46:49.715631Z",
-  "date": "2026-10-23",
+  "generated_at": "2026-10-25T07:35:06.027442Z",
+  "date": "2026-10-25",
   "total_items": 4,
   "items": [
     {
@@ -15,49 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-23T11:46:07.149110Z"
+      "observed_at": "2026-10-25T07:34:28.031174Z"
     },
     {
-      "id": "project_66855af75f45",
-      "project_name": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
-      "summary": "One memory for your AI agents and human team members.",
+      "id": "project_dc51e098c1ff",
+      "project_name": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser",
+      "summary": "The fastest headless browser for agents and harnesses",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Context Engine 让 AI 代理与人类团队成员共用同一份记忆，使双方在协作中保持一致的上下文，值得打开体验。",
-      "recommend_reason_en": "Context Engine offers one memory for AI agents and human team members, and it is worth opening to explore how a single shared context could support both.",
-      "published_at": "2026-10-19T10:05:22Z",
-      "updated_at": "2026-10-23T11:41:30Z",
+      "recommend_reason_zh": "Moli by Lexmount 是面向智能体与测试框架的高速无头浏览器，适合打开体验其速度表现。",
+      "recommend_reason_en": "Moli by Lexmount is described as the fastest headless browser for agents and harnesses, making it worth opening for anyone building or running agent workflows that need browser access.",
+      "published_at": "2026-10-13T06:39:58Z",
+      "updated_at": "2026-10-25T07:34:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-23T11:46:38.766738Z"
+      "observed_at": "2026-10-25T07:34:56.389898Z"
     },
     {
-      "id": "project_618e8fb74c6c",
-      "project_name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "id": "project_4dcdb9557827",
+      "project_name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "anthropics/knowledge-work-plugins 是面向知识工作者的开源插件集合，可在 Claude Cowork 中使用，值得打开浏览并挑选适合自己工作流的插件。",
-      "recommend_reason_en": "anthropics/knowledge-work-plugins is an open source repository of plugins primarily intended for knowledge workers using Claude Cowork, worth opening to see what plugin options it offers.",
+      "recommend_reason_zh": "NVIDIA/OpenShell 为自主 AI 智能体提供安全、私密的运行环境，关注智能体安全部署的话值得打开体验。",
+      "recommend_reason_en": "NVIDIA/OpenShell offers a safe, private runtime for autonomous AI agents, making it worth opening to examine a purpose-built environment for running agent workloads.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-23T11:46:07.149110Z"
+      "observed_at": "2026-10-25T07:34:28.031174Z"
     },
     {
-      "id": "project_6fdc6a6efcdc",
-      "project_name": "Peras",
-      "url": "https://www.producthunt.com/products/peras",
-      "summary": "Pause Claude Code and Codex before they burn your week",
+      "id": "project_d273d27ff2aa",
+      "project_name": "Llama Windows",
+      "url": "https://www.producthunt.com/products/llama-windows",
+      "summary": "One local AI server for all your Windows apps",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Peras 让你在 Claude Code 和 Codex 烧掉你一周之前把它们暂停，想给这类工具踩刹车的可以打开体验。",
-      "recommend_reason_en": "Peras pauses Claude Code and Codex before they burn your week, making it worth opening when you want a safeguard against AI coding sessions consuming too much time.",
-      "published_at": "2026-10-22T21:38:15Z",
-      "updated_at": "2026-10-23T11:17:04Z",
+      "recommend_reason_zh": "一个本地 AI 服务器统一服务所有 Windows 应用，让各类程序共享模型能力，值得打开体验。",
+      "recommend_reason_en": "Llama Windows provides one local AI server for all your Windows apps, making it worth opening to explore a unified local AI setup across Windows applications.",
+      "published_at": "2026-10-24T02:40:27Z",
+      "updated_at": "2026-10-25T07:34:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-23T11:46:38.766738Z"
+      "observed_at": "2026-10-25T07:34:56.389898Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 8,
-      "duration_ms": 1190,
+      "item_count": 10,
+      "duration_ms": 199,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 187,
+      "duration_ms": 240,
       "error": null
     }
   ]
