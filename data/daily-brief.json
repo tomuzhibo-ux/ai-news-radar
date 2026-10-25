@@ -1,254 +1,201 @@
 {
-  "generated_at": "2026-10-25T09:02:08.084565Z",
+  "generated_at": "2026-10-25T14:56:54.520994Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 8,
   "items": [
     {
-      "story_id": "story_57b57c29f36c",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9f2543e27eb3",
+      "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7297,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
-      "primary_item": {
-        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_fbda2c665b46",
-      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-      "url": "https://x.com/emollick/status/2114001653879672877",
-      "primary_url": "https://x.com/emollick/status/2114001653879672877",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-          "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-          "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-          "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-          "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-          "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-          "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7653,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-24T14:30:45Z",
-      "latest_at": "2026-10-24T14:30:45Z",
-      "primary_item": {
-        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-        "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-        "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-        "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-        "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/emollick/status/2114001653879672877",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_a2b6dffb1943",
-      "title": "1Password for Agents——让AI agent替你登录，无需看到你的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-      "url": "https://www.producthunt.com/products/1password",
-      "primary_url": "https://www.producthunt.com/products/1password",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
-          "title": "1Password for Agents——让AI agent替你登录，无需看到你的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_zh": "1Password for Agents——让AI agent替你登录，无需看到你的密码",
-          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "summary": "Let AI agents sign in for you without seeing your passwords",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-25T09:01:03Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
-          "title": "1Password 推出面向 Agent 的版本 / 1Password for Agents",
-          "title_zh": "1Password 推出面向 Agent 的版本",
-          "title_en": "1Password for Agents",
-          "title_original": "1Password for Agents",
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语人士等",
+          "title_en": "r/opensource just banned AI, non-English speakers, and more",
+          "title_original": "r/opensource just banned AI, non-English speakers, and more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+          "title_en": "r/opensource just banned AI, non-English speakers and more",
+          "title_original": "r/opensource just banned AI, non-English speakers and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
-          "title": "1Password for Agents——让AI agent替你登录，无需看到你的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_zh": "1Password for Agents——让AI agent替你登录，无需看到你的密码",
-          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "summary": "Let AI agents sign in for you without seeing your passwords",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-25T09:01:03Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
-          "title": "1Password 推出面向 Agent 的版本 / 1Password for Agents",
-          "title_zh": "1Password 推出面向 Agent 的版本",
-          "title_en": "1Password for Agents",
-          "title_original": "1Password for Agents",
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语人士等",
+          "title_en": "r/opensource just banned AI, non-English speakers, and more",
+          "title_original": "r/opensource just banned AI, non-English speakers, and more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "producthunt",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "title_zh": "r/opensource 刚刚禁止了人工智能、非英语使用者等",
+          "title_en": "r/opensource just banned AI, non-English speakers and more",
+          "title_original": "r/opensource just banned AI, non-English speakers and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6116,
+      "importance": 0.6116,
+      "importance_score": 0.6116,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9782,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T13:25:32Z",
+      "latest_at": "2026-10-25T13:25:32Z",
+      "primary_item": {
+        "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+        "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+        "title_zh": "r/opensource 刚刚禁止了人工智能、非英语人士等",
+        "title_en": "r/opensource just banned AI, non-English speakers, and more",
+        "title_original": "r/opensource just banned AI, non-English speakers, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T14:57:54.322883Z"
+      }
+    },
+    {
+      "story_id": "story_503125becdcb",
+      "title": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "4fbeee924641064e483f98b47d4a8525fbb2a40f",
+          "title": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "title_zh": null,
+          "title_en": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "title_original": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "summary": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel /      claude-seo",
+          "title_zh": null,
+          "title_en": "AgriciDaniel /      claude-seo",
+          "title_original": "AgriciDaniel /      claude-seo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
+          "published_at": "2026-10-25T14:46:24.897000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4fbeee924641064e483f98b47d4a8525fbb2a40f",
+          "title": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "title_zh": null,
+          "title_en": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "title_original": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "summary": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel /      claude-seo",
+          "title_zh": null,
+          "title_en": "AgriciDaniel /      claude-seo",
+          "title_original": "AgriciDaniel /      claude-seo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T14:46:24.897000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -263,32 +210,32 @@
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9997,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T12:40:41.277000Z",
-      "latest_at": "2026-10-25T09:01:03Z",
+      "earliest_at": "2026-10-25T14:46:24.897000Z",
+      "latest_at": "2026-10-25T14:56:54.520994Z",
       "primary_item": {
-        "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
-        "title": "1Password for Agents——让AI agent替你登录，无需看到你的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-        "title_zh": "1Password for Agents——让AI agent替你登录，无需看到你的密码",
-        "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-        "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-        "summary": "Let AI agents sign in for you without seeing your passwords",
+        "id": "4fbeee924641064e483f98b47d4a8525fbb2a40f",
+        "title": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "title_zh": null,
+        "title_en": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "title_original": "AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "summary": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/1password",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     },
     {
@@ -406,15 +353,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9724,
+        "recency": 0.8928,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -439,243 +386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_0114c8f2f512",
-      "title": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "primary_url": "https://www.producthunt.com/products/sideos-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
-          "title": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-          "title_zh": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等",
-          "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-          "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-          "summary": "Local AI for dictation, meetings, background tasks and more",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sideos-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-23T13:28:40Z",
-          "updated_at": "2026-10-25T09:01:52Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "2f9b5cf069bf973abf39513f89ef677439fc5a72",
-          "title": "sideOS.ai",
-          "title_zh": null,
-          "title_en": "sideOS.ai",
-          "title_original": "sideOS.ai",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sideos-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
-          "title": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-          "title_zh": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等",
-          "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-          "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-          "summary": "Local AI for dictation, meetings, background tasks and more",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sideos-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-23T13:28:40Z",
-          "updated_at": "2026-10-25T09:01:52Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "2f9b5cf069bf973abf39513f89ef677439fc5a72",
-          "title": "sideOS.ai",
-          "title_zh": null,
-          "title_en": "sideOS.ai",
-          "title_original": "sideOS.ai",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sideos-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9999,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:40:41.277000Z",
-      "latest_at": "2026-10-25T09:01:52Z",
-      "primary_item": {
-        "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
-        "title": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-        "title_zh": "sideOS.ai — 本地 AI，支持语音听写、会议、后台任务等",
-        "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-        "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
-        "summary": "Local AI for dictation, meetings, background tasks and more",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/sideos-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_7a4322ec5389",
-      "title": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "url": "https://github.com/Nutlope/hallmark",
-      "primary_url": "https://github.com/Nutlope/hallmark",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "80ec33d5c12546974efa1fb7fd168bd4d0eee75b",
-          "title": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "title_zh": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。",
-          "title_en": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "title_original": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope /      hallmark",
-          "title_zh": null,
-          "title_en": "Nutlope /      hallmark",
-          "title_original": "Nutlope /      hallmark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "80ec33d5c12546974efa1fb7fd168bd4d0eee75b",
-          "title": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "title_zh": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。",
-          "title_en": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "title_original": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope /      hallmark",
-          "title_zh": null,
-          "title_en": "Nutlope /      hallmark",
-          "title_original": "Nutlope /      hallmark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.54,
-        "ai_relevance": 0.68,
-        "recency": 0.7452,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:40:05.093269Z",
-      "latest_at": "2026-10-24T12:40:41.277000Z",
-      "primary_item": {
-        "id": "80ec33d5c12546974efa1fb7fd168bd4d0eee75b",
-        "title": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "title_zh": "Nutlope/hallmark — 面向 Claude Code、Cursor 和 Codex 的反AI套路化设计技能。",
-        "title_en": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "title_original": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Nutlope/hallmark",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     },
     {
@@ -793,15 +504,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8185,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -826,7 +537,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     },
     {
@@ -944,15 +655,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8185,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -977,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     },
     {
@@ -1095,15 +806,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8916,
+        "recency": 0.8186,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1128,243 +839,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     },
     {
-      "story_id": "story_439f765a556d",
-      "title": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件 / zCAD AI — AI 3D that creates real parts, not just shapes",
-      "url": "https://www.producthunt.com/products/zcad-ai",
-      "primary_url": "https://www.producthunt.com/products/zcad-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_51c532abbbad",
+      "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
-          "title": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件 / zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_zh": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件",
-          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "summary": "AI 3D that creates real parts, not just shapes",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-25T09:01:02Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
-          "title": "zCAD AI",
-          "title_zh": null,
-          "title_en": "zCAD AI",
-          "title_original": "zCAD AI",
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "producthunt",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
+          "published_at": "2026-10-25T09:51:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
-          "title": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件 / zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_zh": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件",
-          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "summary": "AI 3D that creates real parts, not just shapes",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-25T09:01:02Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
-          "title": "zCAD AI",
-          "title_zh": null,
-          "title_en": "zCAD AI",
-          "title_original": "zCAD AI",
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "producthunt",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
+          "published_at": "2026-10-25T09:51:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9997,
+        "recency": 0.9291,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T12:40:41.277000Z",
-      "latest_at": "2026-10-25T09:01:02Z",
+      "earliest_at": "2026-10-25T09:51:17Z",
+      "latest_at": "2026-10-25T09:51:17Z",
       "primary_item": {
-        "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
-        "title": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件 / zCAD AI — AI 3D that creates real parts, not just shapes",
-        "title_zh": "zCAD AI：不只是外观形状，AI 3D 能直接做出真实零件",
-        "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
-        "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
-        "summary": "AI 3D that creates real parts, not just shapes",
+        "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+        "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+        "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+        "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+        "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/zcad-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_2f3ba85cae57",
-      "title": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "primary_url": "https://github.com/google-gemini/gemini-cli",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "27aaef7df1a9905876b55cac6d5f1f6b134840ae",
-          "title": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "title_zh": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。",
-          "title_en": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "title_original": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "title_zh": "谷歌双子座/双子座-cli",
-          "title_en": "google-gemini /      gemini-cli",
-          "title_original": "google-gemini /      gemini-cli",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "27aaef7df1a9905876b55cac6d5f1f6b134840ae",
-          "title": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "title_zh": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。",
-          "title_en": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "title_original": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "title_zh": "谷歌双子座/双子座-cli",
-          "title_en": "google-gemini /      gemini-cli",
-          "title_original": "google-gemini /      gemini-cli",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7452,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:40:05.093269Z",
-      "latest_at": "2026-10-24T12:40:41.277000Z",
-      "primary_item": {
-        "id": "27aaef7df1a9905876b55cac6d5f1f6b134840ae",
-        "title": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "title_zh": "google-gemini/gemini-cli — 一个开源 AI Agent，把 Gemini 的能力直接带进你的终端。",
-        "title_en": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "title_original": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/google-gemini/gemini-cli",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     },
     {
@@ -1449,15 +1042,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7773,
+        "recency": 0.7137,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,364 +1072,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_6da50631fec2",
-      "title": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "primary_url": "https://github.com/pollen-robotics/microduck",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
-          "title": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_zh": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆",
-          "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "summary": "A Tiny biped duck robot 🦆",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "title_zh": "花粉机器人/微型鸭",
-          "title_en": "pollen-robotics /      microduck",
-          "title_original": "pollen-robotics /      microduck",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
-          "title": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_zh": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆",
-          "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "summary": "A Tiny biped duck robot 🦆",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "title_zh": "花粉机器人/微型鸭",
-          "title_en": "pollen-robotics /      microduck",
-          "title_original": "pollen-robotics /      microduck",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:41.277000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7452,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:40:05.093269Z",
-      "latest_at": "2026-10-24T12:40:41.277000Z",
-      "primary_item": {
-        "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
-        "title": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-        "title_zh": "pollen-robotics/microduck — 一台小巧的双足鸭子机器人 🦆",
-        "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-        "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-        "summary": "A Tiny biped duck robot 🦆",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/pollen-robotics/microduck",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_7f015f6d31aa",
-      "title": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7308,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_zh": "一篇关于 Z-Library 的 AI 辅助论文，引用了一篇根本不存在的 TorrentFreak 文章",
-        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
-      }
-    },
-    {
-      "story_id": "story_48b1a6c85b6c",
-      "title": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.726,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-        "title": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_zh": "Show HN：通过 CVE-2022-22706 实现 Tcl Android TV 自主获取 root 权限",
-        "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:02:56.166354Z"
+        "scored_at": "2026-10-25T14:57:54.322883Z"
       }
     }
   ]
