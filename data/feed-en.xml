@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 14:56:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 19:42:01 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>r/opensource just banned AI, non-English speakers, and more</title>
@@ -16,12 +16,36 @@
 <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
 </item>
 <item>
+<title>Papermark Data Rooms — Secure data rooms your AI agents can run. Live in &lt; 60 sec.</title>
+<link>https://www.producthunt.com/products/papermark-2</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/papermark-2</guid>
+<description>Secure data rooms your AI agents can run. Live in &lt; 60 sec. (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 19:34:14 +0000</pubDate>
+</item>
+<item>
 <title>AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</title>
 <link>https://github.com/AgriciDaniel/claude-seo</link>
 <guid isPermaLink="true">https://github.com/AgriciDaniel/claude-seo</guid>
 <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 25 Oct 2026 14:56:54 +0000</pubDate>
+</item>
+<item>
+<title>一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型</title>
+<link>https://lynchlab.net/llm-skin-cancer</link>
+<guid isPermaLink="true">https://lynchlab.net/llm-skin-cancer</guid>
+<description>一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型 (lynchlab.net)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 25 Oct 2026 18:39:28 +0000</pubDate>
+</item>
+<item>
+<title>尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔</title>
+<link>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</link>
+<guid isPermaLink="true">https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</guid>
+<description>尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔 (www.techspot.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 25 Oct 2026 17:35:52 +0000</pubDate>
 </item>
 <item>
 <title>Cerebras 部署了万亿参数的人工智能模型</title>
@@ -32,12 +56,20 @@
 <pubDate>Sun, 25 Oct 2026 07:05:49 +0000</pubDate>
 </item>
 <item>
-<title>为什么人工智能生成的语言这么难懂？</title>
-<link>https://arxiv.org/abs/2610.29162</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
-<description>为什么人工智能生成的语言这么难懂？ (arxiv.org)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 25 Oct 2026 01:04:53 +0000</pubDate>
+<title>AI use leads UC Berkeley math professor to see 'no point' in grading homework</title>
+<link>https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</link>
+<guid isPermaLink="true">https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</guid>
+<description>AI use leads UC Berkeley math professor to see 'no point' in grading homework</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 16:28:26 +0000</pubDate>
+</item>
+<item>
+<title>1505年纽伦堡骑士的工具书</title>
+<link>https://loeffelholz-codex.org/en</link>
+<guid isPermaLink="true">https://loeffelholz-codex.org/en</guid>
+<description>1505年纽伦堡骑士的工具书 (loeffelholz-codex.org)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 15:28:39 +0000</pubDate>
 </item>
 <item>
 <title>科技行业以外尚未出现人工智能带来回报的迹象</title>
@@ -54,22 +86,6 @@
 <description>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ (www.apricitas.io)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 25 Oct 2026 01:05:14 +0000</pubDate>
-</item>
-<item>
-<title>Nikon photography contest winner loses title after scientists spot signs of AI</title>
-<link>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</link>
-<guid isPermaLink="true">https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</guid>
-<description>Nikon photography contest winner loses title after scientists spot signs of AI</description>
-<category>Worth watching</category>
-<pubDate>Sun, 25 Oct 2026 09:51:17 +0000</pubDate>
-</item>
-<item>
-<title>Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
-<link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</link>
-<guid isPermaLink="true">https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</guid>
-<description>Oai-math-revised: a community hub for revising OpenAI's math write-ups</description>
-<category>Worth watching</category>
-<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
