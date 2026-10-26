@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T13:02:21.968077Z",
-  "date": "2026-10-26",
+  "generated_at": "2026-10-26T17:22:48.988030Z",
+  "date": "2026-10-27",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-26T13:01:24.605370Z"
+      "observed_at": "2026-10-26T17:22:04.954545Z"
     },
     {
-      "id": "project_7427b9903b97",
-      "project_name": "SurgePix",
-      "url": "https://www.producthunt.com/products/surgepix",
-      "summary": "AI visuals. Edit every layer. Agent-callable.",
+      "id": "project_6394d4cace69",
+      "project_name": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
+      "summary": "The humanized AI Copilot for your entire Job search",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI visuals. Edit every layer. Agent-callable」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI visuals. Edit every layer. Agent-callable\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-16T07:19:17Z",
-      "updated_at": "2026-10-26T13:01:57Z",
+      "recommend_reason_zh": "体验它主打的「The humanized AI Copilot for your entire Job search」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The humanized AI Copilot for your entire Job search\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-25T22:59:42Z",
+      "updated_at": "2026-10-26T17:08:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-26T13:02:09.394810Z"
+      "observed_at": "2026-10-26T17:22:40.004048Z"
     },
     {
       "id": "project_1606cfe2c2a9",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-26T13:01:24.605370Z"
+      "observed_at": "2026-10-26T17:22:04.954545Z"
     },
     {
-      "id": "project_25f0fc5da417",
-      "project_name": "Strawberry 1.0",
-      "url": "https://www.producthunt.com/products/strawberry",
-      "summary": "AI Browser that saves your team >100h/week",
+      "id": "project_2e9c07edf2e4",
+      "project_name": "AllModels",
+      "url": "https://www.producthunt.com/products/allmodels-io",
+      "summary": "Explore every abliterated model",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI Browser that saves your team >100h/week」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI Browser that saves your team >100h/week\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T16:12:24Z",
-      "updated_at": "2026-10-26T13:01:56Z",
+      "recommend_reason_zh": "体验它主打的「Explore every abliterated model」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Explore every abliterated model\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T05:15:29Z",
+      "updated_at": "2026-10-26T17:04:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-26T13:02:09.394810Z"
+      "observed_at": "2026-10-26T17:22:40.004048Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1823,
+      "duration_ms": 1468,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 392,
+      "duration_ms": 194,
       "error": null
     }
   ]
