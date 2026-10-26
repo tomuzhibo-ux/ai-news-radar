@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 11:05:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 13:01:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件 / ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
+<link>https://x.com/testingcatalog/status/2114696424021451174</link>
+<guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
+<description>据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。（X：Testing Catalog (@testingcatalog)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
+</item>
 <item>
 <title>Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</title>
 <link>https://x.com/Kling_ai/status/2114574035468386746</link>
@@ -80,6 +88,14 @@
 <pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
+<title>AI Bridge — Mac 上的每个 AI 编码代理各就其位 / AI Bridge — Every AI coding agent on your Mac, in its place</title>
+<link>https://www.producthunt.com/products/ai-bridge</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/ai-bridge</guid>
+<description>Every AI coding agent on your Mac, in its place（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Mon, 26 Oct 2026 13:02:07 +0000</pubDate>
+</item>
+<item>
 <title>英伟达开源机器人数据引擎 Flora:标注成本较 GPT-6Astra 降至125倍</title>
 <link>https://www.aibase.com/news/31869</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31869</guid>
@@ -147,25 +163,9 @@
 <title>认知重商主义：人工智能恐慌类似于对早期资本主义的恐惧 / Cognitive Mercantilism: AI panic resembles fears of early capitalism</title>
 <link>https://contraptions.venkateshrao.com/p/cognitive-mercantilism</link>
 <guid isPermaLink="true">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</guid>
-<description>Hacker News (黑客新闻)</description>
+<description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Mon, 26 Oct 2026 04:11:40 +0000</pubDate>
-</item>
-<item>
-<title>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互</title>
-<link>https://www.aibase.com/news/31856</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31856</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
-</item>
-<item>
-<title>1505年纽伦堡骑士的工具书</title>
-<link>https://loeffelholz-codex.org/en</link>
-<guid isPermaLink="true">https://loeffelholz-codex.org/en</guid>
-<description>loeffelholz-codex.org</description>
-<category>值得关注</category>
-<pubDate>Sun, 25 Oct 2026 15:28:39 +0000</pubDate>
 </item>
 </channel>
 </rss>

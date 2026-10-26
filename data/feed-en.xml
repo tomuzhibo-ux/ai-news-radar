@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 11:05:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 13:01:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
+<link>https://x.com/testingcatalog/status/2114696424021451174</link>
+<guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
+<description>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
+</item>
 <item>
 <title>Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</title>
 <link>https://x.com/Kling_ai/status/2114574035468386746</link>
@@ -80,6 +88,14 @@
 <pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
+<title>AI Bridge — Every AI coding agent on your Mac, in its place</title>
+<link>https://www.producthunt.com/products/ai-bridge</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/ai-bridge</guid>
+<description>Every AI coding agent on your Mac, in its place (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 26 Oct 2026 13:02:07 +0000</pubDate>
+</item>
+<item>
 <title>英伟达开源机器人数据引擎 Flora:标注成本较 GPT-6Astra 降至125倍</title>
 <link>https://www.aibase.com/news/31869</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31869</guid>
@@ -150,22 +166,6 @@
 <description>Cognitive Mercantilism: AI panic resembles fears of early capitalism</description>
 <category>Worth watching</category>
 <pubDate>Mon, 26 Oct 2026 04:11:40 +0000</pubDate>
-</item>
-<item>
-<title>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互</title>
-<link>https://www.aibase.com/news/31856</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31856</guid>
-<description>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
-</item>
-<item>
-<title>1505年纽伦堡骑士的工具书</title>
-<link>https://loeffelholz-codex.org/en</link>
-<guid isPermaLink="true">https://loeffelholz-codex.org/en</guid>
-<description>1505年纽伦堡骑士的工具书 (loeffelholz-codex.org)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 25 Oct 2026 15:28:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
