@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 06:12:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 11:05:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</title>
@@ -16,12 +16,12 @@
 <pubDate>Mon, 26 Oct 2026 04:25:11 +0000</pubDate>
 </item>
 <item>
-<title>AI 几分钟复原打码二维码，实测揭穿"假马赛克"陷阱</title>
-<link>https://www.aibase.com/news/31862</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31862</guid>
-<description>AI 几分钟复原打码二维码，实测揭穿"假马赛克"陷阱 (AIbase)</description>
+<title>Gartner 调研：44% 的 CEO 说不清 AI 到底赚没赚钱</title>
+<link>https://www.aibase.com/news/31868</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31868</guid>
+<description>Gartner 调研：44% 的 CEO 说不清 AI 到底赚没赚钱 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力</title>
@@ -32,6 +32,14 @@
 <pubDate>Mon, 26 Oct 2026 03:08:44 +0000</pubDate>
 </item>
 <item>
+<title>Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶</title>
+<link>https://www.aibase.com/news/31866</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31866</guid>
+<description>Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
+</item>
+<item>
 <title>卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备</title>
 <link>https://x.com/Khazix0918/status/2114579883527655853</link>
 <guid isPermaLink="true">https://x.com/Khazix0918/status/2114579883527655853</guid>
@@ -40,60 +48,44 @@
 <pubDate>Mon, 26 Oct 2026 04:48:25 +0000</pubDate>
 </item>
 <item>
-<title>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互</title>
-<link>https://www.aibase.com/news/31856</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31856</guid>
-<description>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互 (AIbase)</description>
+<title>三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年</title>
+<link>https://www.aibase.com/news/31867</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31867</guid>
+<description>三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
-<title>Claude桌面端迎来重大改版：AI全程参与设计，从草图到上线仅用不到 3 周</title>
-<link>https://www.aibase.com/news/31858</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31858</guid>
-<description>Claude桌面端迎来重大改版：AI全程参与设计，从草图到上线仅用不到 3 周 (AIbase)</description>
+<title>中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美</title>
+<link>https://www.aibase.com/news/31870</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31870</guid>
+<description>中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
-<title>Kimi 就 K3.1 Pro 限流致歉：全体订阅会员补 25% 额度</title>
-<link>https://www.aibase.com/news/31855</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31855</guid>
-<description>Kimi 就 K3.1 Pro 限流致歉：全体订阅会员补 25% 额度 (AIbase)</description>
+<title>全球大模型周调用量突破188万亿：中国AI包揽前五，DeepSeek新模型强势登顶</title>
+<link>https://www.aibase.com/news/31865</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31865</guid>
+<description>全球大模型周调用量突破188万亿：中国AI包揽前五，DeepSeek新模型强势登顶 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
-<title>Kimi就K3.1Pro限流致歉:全系订阅会员获25%额度补偿</title>
-<link>https://www.aibase.com/news/31853</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31853</guid>
-<description>Kimi就K3.1Pro限流致歉:全系订阅会员获25%额度补偿 (AIbase)</description>
+<title>字节跳动回应:Seed核心负责人周畅未离职</title>
+<link>https://www.aibase.com/news/31872</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31872</guid>
+<description>字节跳动回应:Seed核心负责人周畅未离职 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
-<title>Reddit开源子版块颁布AI禁令，全面封杀人工智能相关项目</title>
-<link>https://www.aibase.com/news/31860</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31860</guid>
-<description>Reddit开源子版块颁布AI禁令，全面封杀人工智能相关项目 (AIbase)</description>
+<title>英伟达开源机器人数据引擎 Flora:标注成本较 GPT-6Astra 降至125倍</title>
+<link>https://www.aibase.com/news/31869</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31869</guid>
+<description>英伟达开源机器人数据引擎 Flora:标注成本较 GPT-6Astra 降至125倍 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
-</item>
-<item>
-<title>Papermark Data Rooms — Secure data rooms your AI agents can run. Live in &lt; 60 sec.</title>
-<link>https://www.producthunt.com/products/papermark-2</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/papermark-2</guid>
-<description>Secure data rooms your AI agents can run. Live in &lt; 60 sec. (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 26 Oct 2026 06:11:59 +0000</pubDate>
-</item>
-<item>
-<title>国产AI视频模型新格局：MiniMax H3 登顶SuperCLUE总榜，多款实力派同台竞技</title>
-<link>https://www.aibase.com/news/31861</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31861</guid>
-<description>国产AI视频模型新格局：MiniMax H3 登顶SuperCLUE总榜，多款实力派同台竞技 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
 <title>r/opensource just banned AI, non-English speakers, and more</title>
@@ -102,6 +94,14 @@
 <description>r/opensource just banned AI, non-English speakers, and more (The Verge)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
+</item>
+<item>
+<title>PaperPilot——一款基于WASM和MCP的零云、纯Rust PDF引擎</title>
+<link>https://github.com/KrushnaVardhanReddy/PaperPilot</link>
+<guid isPermaLink="true">https://github.com/KrushnaVardhanReddy/PaperPilot</guid>
+<description>PaperPilot——一款基于WASM和MCP的零云、纯Rust PDF引擎 (github.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Mon, 26 Oct 2026 08:02:10 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？</title>
@@ -120,10 +120,10 @@
 <pubDate>Sun, 25 Oct 2026 14:56:54 +0000</pubDate>
 </item>
 <item>
-<title>国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？</title>
-<link>https://www.aibase.com/news/31863</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31863</guid>
-<description>国产扩散大模型全面爆发，各项跑分超越 GPT-6 究竟靠什么？ (AIbase)</description>
+<title>AI 几分钟复原打码二维码，实测揭穿"假马赛克"陷阱</title>
+<link>https://www.aibase.com/news/31862</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31862</guid>
+<description>AI 几分钟复原打码二维码，实测揭穿"假马赛克"陷阱 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
 </item>
@@ -144,14 +144,6 @@
 <pubDate>Sun, 25 Oct 2026 18:39:28 +0000</pubDate>
 </item>
 <item>
-<title>尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔</title>
-<link>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</link>
-<guid isPermaLink="true">https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</guid>
-<description>尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔 (www.techspot.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 25 Oct 2026 17:35:52 +0000</pubDate>
-</item>
-<item>
 <title>Cognitive Mercantilism: AI panic resembles fears of early capitalism</title>
 <link>https://contraptions.venkateshrao.com/p/cognitive-mercantilism</link>
 <guid isPermaLink="true">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</guid>
@@ -160,12 +152,20 @@
 <pubDate>Mon, 26 Oct 2026 04:11:40 +0000</pubDate>
 </item>
 <item>
-<title>小米发布150元开源硬件 HachimoDock，打造万能AI桌宠与桌面Agent中控</title>
-<link>https://www.aibase.com/news/31864</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31864</guid>
-<description>小米发布150元开源硬件 HachimoDock，打造万能AI桌宠与桌面Agent中控 (AIbase)</description>
+<title>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互</title>
+<link>https://www.aibase.com/news/31856</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31856</guid>
+<description>Block 发布全新语音模型 Dessa:打破文字中转桎梏，实现逼真全双工交互 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 26 Oct 2026 06:12:25 +0000</pubDate>
+</item>
+<item>
+<title>1505年纽伦堡骑士的工具书</title>
+<link>https://loeffelholz-codex.org/en</link>
+<guid isPermaLink="true">https://loeffelholz-codex.org/en</guid>
+<description>1505年纽伦堡骑士的工具书 (loeffelholz-codex.org)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 15:28:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
