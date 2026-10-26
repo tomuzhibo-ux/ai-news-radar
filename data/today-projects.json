@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:22:48.988030Z",
+  "generated_at": "2026-10-26T21:40:11.232214Z",
   "date": "2026-10-27",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-26T17:22:04.954545Z"
+      "observed_at": "2026-10-26T21:39:29.354480Z"
     },
     {
-      "id": "project_6394d4cace69",
-      "project_name": "Jobmate AI",
-      "url": "https://www.producthunt.com/products/jobmate-ai-3",
-      "summary": "The humanized AI Copilot for your entire Job search",
+      "id": "project_7427b9903b97",
+      "project_name": "SurgePix",
+      "url": "https://www.producthunt.com/products/surgepix",
+      "summary": "AI visuals. Edit every layer. Agent-callable.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The humanized AI Copilot for your entire Job search」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The humanized AI Copilot for your entire Job search\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-25T22:59:42Z",
-      "updated_at": "2026-10-26T17:08:22Z",
+      "recommend_reason_zh": "体验它主打的「AI visuals. Edit every layer. Agent-callable」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI visuals. Edit every layer. Agent-callable\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-16T07:19:17Z",
+      "updated_at": "2026-10-26T21:37:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-26T17:22:40.004048Z"
+      "observed_at": "2026-10-26T21:40:01.693845Z"
     },
     {
       "id": "project_1606cfe2c2a9",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-26T17:22:04.954545Z"
+      "observed_at": "2026-10-26T21:39:29.354480Z"
     },
     {
-      "id": "project_2e9c07edf2e4",
-      "project_name": "AllModels",
-      "url": "https://www.producthunt.com/products/allmodels-io",
-      "summary": "Explore every abliterated model",
+      "id": "project_8ed6e9f9a6bf",
+      "project_name": "AVP",
+      "url": "https://www.producthunt.com/products/avp",
+      "summary": "Open source alternative to Git for AI coding agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Explore every abliterated model」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Explore every abliterated model\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T05:15:29Z",
-      "updated_at": "2026-10-26T17:04:28Z",
+      "recommend_reason_zh": "体验它主打的「Open source alternative to Git for AI coding agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Open source alternative to Git for AI coding agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-25T22:53:07Z",
+      "updated_at": "2026-10-26T21:04:16Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-26T17:22:40.004048Z"
+      "observed_at": "2026-10-26T21:40:01.693845Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1468,
+      "duration_ms": 1403,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 194,
+      "duration_ms": 337,
       "error": null
     }
   ]

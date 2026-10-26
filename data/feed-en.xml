@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 17:22:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 21:39:29 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>GPT-6.1 Terra in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot</guid>
+<description>GPT-6.1 Terra in GitHub Copilot (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 26 Oct 2026 19:15:53 +0000</pubDate>
+</item>
+<item>
+<title>Introducing GPT-6.1 Terra</title>
+<link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra</guid>
+<description>Introducing GPT-6.1 Terra (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 26 Oct 2026 18:01:17 +0000</pubDate>
+</item>
 <item>
 <title>Our newest AI Quest: Mapping the human brain</title>
 <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks</link>
@@ -16,20 +32,52 @@
 <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>How Fanatics and OpenAI streamline the fan experience</title>
-<link>https://openai.com/index/fanatics-streamline-fan-experience</link>
-<guid isPermaLink="true">https://openai.com/index/fanatics-streamline-fan-experience</guid>
-<description>How Fanatics and OpenAI streamline the fan experience (OpenAI News)</description>
+<title>GPT-6.1 Terra in Work and Codex</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>GPT-6.1 Terra in Work and Codex (OpenAI Codex Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
-<link>https://x.com/testingcatalog/status/2114696424021451174</link>
-<guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
-<description>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</description>
+<title>ChatGPT’s expanding world of work</title>
+<link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+<description>ChatGPT’s expanding world of work (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.</title>
+<link>https://x.com/rohanpaul_ai/status/2114789264936534183</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114789264936534183</guid>
+<description>Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 18:40:26 +0000</pubDate>
+</item>
+<item>
+<title>Five weird details from Anthropic’s IPO filing</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</guid>
+<description>Five weird details from Anthropic’s IPO filing</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
+</item>
+<item>
+<title>Day 22/ Terra is back!</title>
+<link>https://x.com/thsottiaux/status/2114800277677092936</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2114800277677092936</guid>
+<description>Day 22/ Terra is back!</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 19:24:11 +0000</pubDate>
+</item>
+<item>
+<title>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</title>
+<link>https://x.com/gdb/status/2114814747254432243</link>
+<guid isPermaLink="true">https://x.com/gdb/status/2114814747254432243</guid>
+<description>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 20:21:41 +0000</pubDate>
 </item>
 <item>
 <title>Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</title>
@@ -40,12 +88,20 @@
 <pubDate>Mon, 26 Oct 2026 04:25:11 +0000</pubDate>
 </item>
 <item>
-<title>If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</title>
-<link>https://x.com/ClementDelangue/status/2114713576296300604</link>
-<guid isPermaLink="true">https://x.com/ClementDelangue/status/2114713576296300604</guid>
-<description>If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</description>
+<title>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
+<link>https://x.com/testingcatalog/status/2114696424021451174</link>
+<guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
+<description>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 13:39:40 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.1 Terra from @OpenAI is live on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2114791584755839168</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2114791584755839168</guid>
+<description>GPT-6.1 Terra from @OpenAI is live on OpenRouter!</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 18:49:39 +0000</pubDate>
 </item>
 <item>
 <title>Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金</title>
@@ -54,6 +110,22 @@
 <description>Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金</description>
 <category>Industry news</category>
 <pubDate>Mon, 26 Oct 2026 12:26:21 +0000</pubDate>
+</item>
+<item>
+<title>If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</title>
+<link>https://x.com/ClementDelangue/status/2114713576296300604</link>
+<guid isPermaLink="true">https://x.com/ClementDelangue/status/2114713576296300604</guid>
+<description>If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 13:39:40 +0000</pubDate>
+</item>
+<item>
+<title>How Fanatics and OpenAI streamline the fan experience</title>
+<link>https://openai.com/index/fanatics-streamline-fan-experience</link>
+<guid isPermaLink="true">https://openai.com/index/fanatics-streamline-fan-experience</guid>
+<description>How Fanatics and OpenAI streamline the fan experience (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>MiniMax-M3.1-Flash can now run locally!</title>
@@ -72,6 +144,14 @@
 <pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
 </item>
 <item>
+<title>What’s new in Gamma | September–October 2026</title>
+<link>https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</link>
+<guid isPermaLink="true">https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</guid>
+<description>What’s new in Gamma | September–October 2026 (Gamma Changelog)</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 19:14:26 +0000</pubDate>
+</item>
+<item>
 <title>introducing Krea for Adobe Premiere.</title>
 <link>https://x.com/krea_ai/status/2114741513867395527</link>
 <guid isPermaLink="true">https://x.com/krea_ai/status/2114741513867395527</guid>
@@ -80,92 +160,12 @@
 <pubDate>Mon, 26 Oct 2026 15:30:41 +0000</pubDate>
 </item>
 <item>
-<title>何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力</title>
-<link>https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43</link>
-<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43</guid>
-<description>何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力 (Daily Digest)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 03:08:44 +0000</pubDate>
-</item>
-<item>
-<title>卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备</title>
-<link>https://x.com/Khazix0918/status/2114579883527655853</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2114579883527655853</guid>
-<description>卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 04:48:25 +0000</pubDate>
-</item>
-<item>
-<title>Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶</title>
-<link>https://www.aibase.com/news/31866</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31866</guid>
-<description>Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
-</item>
-<item>
-<title>三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年</title>
-<link>https://www.aibase.com/news/31867</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31867</guid>
-<description>三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
-</item>
-<item>
-<title>中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美</title>
-<link>https://www.aibase.com/news/31870</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31870</guid>
-<description>中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
-</item>
-<item>
-<title>全球大模型周调用量突破188万亿：中国AI包揽前五，DeepSeek新模型强势登顶</title>
-<link>https://www.aibase.com/news/31865</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31865</guid>
-<description>全球大模型周调用量突破188万亿：中国AI包揽前五，DeepSeek新模型强势登顶 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
-</item>
-<item>
-<title>The Anthropic S-1 Filing Is Also an AI Doomsday Primer</title>
-<link>https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer</link>
-<guid isPermaLink="true">https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer</guid>
-<description>The Anthropic S-1 Filing Is Also an AI Doomsday Primer (Wired AI)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 26 Oct 2026 16:01:55 +0000</pubDate>
-</item>
-<item>
-<title>字节跳动回应:Seed核心负责人周畅未离职</title>
-<link>https://www.aibase.com/news/31872</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31872</guid>
-<description>字节跳动回应:Seed核心负责人周畅未离职 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
-</item>
-<item>
-<title>AI Bridge — Every AI coding agent on your Mac, in its place</title>
-<link>https://www.producthunt.com/products/ai-bridge</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/ai-bridge</guid>
-<description>Every AI coding agent on your Mac, in its place (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 26 Oct 2026 17:04:16 +0000</pubDate>
-</item>
-<item>
-<title>英伟达开源机器人数据引擎 Flora:标注成本较 GPT-6Astra 降至125倍</title>
-<link>https://www.aibase.com/news/31869</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31869</guid>
-<description>英伟达开源机器人数据引擎 Flora:标注成本较 GPT-6Astra 降至125倍 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 11:05:05 +0000</pubDate>
-</item>
-<item>
-<title>解决vLLM中的工具调用准确性问题</title>
-<link>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</link>
-<guid isPermaLink="true">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</guid>
-<description>解决vLLM中的工具调用准确性问题 (www.ubicloud.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 26 Oct 2026 16:11:03 +0000</pubDate>
+<title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
+<link>https://openai.com/index/openai-cut-incident-investigation</link>
+<guid isPermaLink="true">https://openai.com/index/openai-cut-incident-investigation</guid>
+<description>How Ultrafast cut incident investigation from hours to minutes at OpenAI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
