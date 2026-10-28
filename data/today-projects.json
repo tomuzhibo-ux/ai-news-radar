@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T14:02:05.892010Z",
-  "date": "2026-10-28",
+  "generated_at": "2026-10-28T19:33:25.893403Z",
+  "date": "2026-10-29",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T14:00:54.000871Z"
+      "observed_at": "2026-10-28T19:32:41.198444Z"
     },
     {
-      "id": "project_480ea07b69a6",
-      "project_name": "Tulu",
-      "url": "https://www.producthunt.com/products/tulu",
-      "summary": "Autonomous marketing operations & analytics for SMBs",
+      "id": "project_31625ee83d7d",
+      "project_name": "Zest",
+      "url": "https://www.producthunt.com/products/zest-6",
+      "summary": "Hold ⌥Space, flick, and an AI agent does the dev chore",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Autonomous marketing operations & analytics for SMBs」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Autonomous marketing operations & analytics for SMBs\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-07-19T15:47:40Z",
-      "updated_at": "2026-10-28T14:00:12Z",
+      "recommend_reason_zh": "体验它主打的「Hold ⌥Space, flick, and an AI agent does the dev chore」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Hold ⌥Space, flick, and an AI agent does the dev chore\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-25T11:30:16Z",
+      "updated_at": "2026-10-28T19:32:46Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T14:01:54.324175Z"
+      "observed_at": "2026-10-28T19:33:15.062061Z"
     },
     {
       "id": "project_e2469c92ba3c",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T14:00:54.000871Z"
+      "observed_at": "2026-10-28T19:32:41.198444Z"
     },
     {
-      "id": "project_ca9a4b0ae9e8",
-      "project_name": "Hob",
-      "url": "https://www.producthunt.com/products/hob-3",
-      "summary": "Open-source, on device alternative to Claude and ChatGPT",
+      "id": "project_a96ff099d7b5",
+      "project_name": "Our Silly Games",
+      "url": "https://www.producthunt.com/products/our-silly-games",
+      "summary": "Skills to build games with Claude. Free multiplayer hosting.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open-source, on device alternative to Claude and ChatGPT」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open-source, on device alternative to Claude and ChatGPT\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T16:38:07Z",
-      "updated_at": "2026-10-28T13:58:20Z",
+      "recommend_reason_zh": "体验它主打的「Skills to build games with Claude. Free multiplayer hosting」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Skills to build games with Claude. Free multiplayer hosting\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T16:11:14Z",
+      "updated_at": "2026-10-28T19:32:46Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T14:01:54.324175Z"
+      "observed_at": "2026-10-28T19:33:15.062061Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1258,
+      "duration_ms": 388,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 139,
+      "duration_ms": 184,
       "error": null
     }
   ]
