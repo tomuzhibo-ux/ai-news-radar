@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-28T06:51:33.238803Z",
+  "generated_at": "2026-10-28T11:19:49.011915Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3e2da8c9fde0",
+      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "primary_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "title_zh": "Legora正在构建法律工作代理操作系统",
+          "title_en": "Legora is building the agentic operating system for legal work",
+          "title_original": "Legora is building the agentic operating system for legal work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "title_zh": "Legora正在构建法律工作代理操作系统",
+          "title_en": "Legora is building the agentic operating system for legal work",
+          "title_original": "Legora is building the agentic operating system for legal work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9739,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T09:30:00Z",
+      "latest_at": "2026-10-28T09:30:00Z",
+      "primary_item": {
+        "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+        "title_zh": "Legora正在构建法律工作代理操作系统",
+        "title_en": "Legora is building the agentic operating system for legal work",
+        "title_original": "Legora is building the agentic operating system for legal work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T11:21:58.636262Z"
+      }
+    },
     {
       "story_id": "story_74c7e03322b7",
       "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8094,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.875,
+        "recency": 0.8203,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
-      }
-    },
-    {
-      "story_id": "story_ec554f349e47",
-      "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "primary_url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
-          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
-          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/retell-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
-          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
-          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/retell-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7953,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T15:00:00Z",
-      "latest_at": "2026-10-27T15:00:00Z",
-      "primary_item": {
-        "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
-        "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-        "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
-        "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-        "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/retell-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8072,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8219,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,266 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
+      }
+    },
+    {
+      "story_id": "story_d19ddeb7edba",
+      "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:56:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:56:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T10:56:24Z",
+      "latest_at": "2026-10-28T10:56:24Z",
+      "primary_item": {
+        "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+        "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T11:21:58.636262Z"
+      }
+    },
+    {
+      "story_id": "story_97b0168eb606",
+      "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+      "url": "https://x.com/SaitoWu/status/2115376256929948006",
+      "primary_url": "https://x.com/SaitoWu/status/2115376256929948006",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
+          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "title_zh": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "title_en": null,
+          "title_original": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SaitoWu/status/2115376256929948006",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T09:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Saito 硬地骇客 (@SaitoWu)"
+      ],
+      "items": [
+        {
+          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
+          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "title_zh": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "title_en": null,
+          "title_original": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SaitoWu/status/2115376256929948006",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T09:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9746,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T09:32:56Z",
+      "latest_at": "2026-10-28T09:32:56Z",
+      "primary_item": {
+        "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
+        "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+        "title_zh": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+        "title_en": null,
+        "title_original": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+        "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SaitoWu/status/2115376256929948006",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T11:21:58.636262Z"
+      }
+    },
+    {
+      "story_id": "story_ec554f349e47",
+      "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "primary_url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T15:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T15:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7456,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T15:00:00Z",
+      "latest_at": "2026-10-27T15:00:00Z",
+      "primary_item": {
+        "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+        "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+        "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+        "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+        "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/retell-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -487,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,117 +780,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
-      "story_id": "story_0578d962325b",
-      "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "primary_url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
-          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "title_zh": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-          "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "title_original": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T07:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
-          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "title_zh": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-          "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "title_original": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T07:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T07:00:00Z",
-      "latest_at": "2026-10-27T07:00:00Z",
-      "primary_item": {
-        "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
-        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "title_zh": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-        "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "title_original": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
-      }
-    },
-    {
-      "story_id": "story_91713609458b",
-      "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-      "url": "https://www.aibase.com/news/31917",
-      "primary_url": "https://www.aibase.com/news/31917",
+      "story_id": "story_158b349a9bd9",
+      "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+      "url": "https://www.aibase.com/news/31929",
+      "primary_url": "https://www.aibase.com/news/31929",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "619caa0a6855952f232b4bd0060bb15bff795b56",
-          "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "title_zh": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
+          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
           "title_en": null,
-          "title_original": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
+          "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31917",
+          "url": "https://www.aibase.com/news/31929",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-28T06:51:33.238803Z",
+          "published_at": "2026-10-28T11:19:49.011915Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -642,18 +814,18 @@
       ],
       "items": [
         {
-          "id": "619caa0a6855952f232b4bd0060bb15bff795b56",
-          "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "title_zh": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
+          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
           "title_en": null,
-          "title_original": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
+          "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31917",
+          "url": "https://www.aibase.com/news/31929",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-28T06:51:33.238803Z",
+          "published_at": "2026-10-28T11:19:49.011915Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -676,17 +848,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T06:51:33.238803Z",
-      "latest_at": "2026-10-28T06:51:33.238803Z",
+      "earliest_at": "2026-10-28T11:19:49.011915Z",
+      "latest_at": "2026-10-28T11:19:49.011915Z",
       "primary_item": {
-        "id": "619caa0a6855952f232b4bd0060bb15bff795b56",
-        "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-        "title_zh": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
+        "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+        "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+        "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
         "title_en": null,
-        "title_original": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
+        "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31917",
+        "url": "https://www.aibase.com/news/31929",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -694,7 +866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -746,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9914,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,93 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
-      }
-    },
-    {
-      "story_id": "story_5cfb9bcbdf04",
-      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
-      "source": "Latent Space（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-          "recommend_reason_zh": null,
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Latent Space（RSS）"
-      ],
-      "items": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-          "recommend_reason_zh": null,
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7128,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T07:24:59Z",
-      "latest_at": "2026-10-27T07:24:59Z",
-      "primary_item": {
-        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-        "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-        "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-        "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-        "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-        "recommend_reason_zh": null,
-        "url": "https://latent.space/p/ainews-anthropic-s1",
-        "source": "Latent Space（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -918,15 +1004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -1004,21 +1090,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7658,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T16:51:22Z",
       "latest_at": "2026-10-27T16:51:22Z",
@@ -1038,7 +1123,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -1090,21 +1175,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T17:31:56Z",
       "latest_at": "2026-10-27T17:31:56Z",
@@ -1124,7 +1208,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
+      }
+    },
+    {
+      "story_id": "story_d21648743048",
+      "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+      "url": "https://www.aibase.com/news/31927",
+      "primary_url": "https://www.aibase.com/news/31927",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0558c9d89b595b15643bdad3938145652227f710",
+          "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_en": null,
+          "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31927",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0558c9d89b595b15643bdad3938145652227f710",
+          "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_en": null,
+          "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31927",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T11:19:49.011915Z",
+      "latest_at": "2026-10-28T11:19:49.011915Z",
+      "primary_item": {
+        "id": "0558c9d89b595b15643bdad3938145652227f710",
+        "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+        "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+        "title_en": null,
+        "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31927",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -1176,15 +1346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9223,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1210,178 +1380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
-      }
-    },
-    {
-      "story_id": "story_53c724770993",
-      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7685,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T12:37:24Z",
-      "latest_at": "2026-10-27T12:37:24Z",
-      "primary_item": {
-        "id": "91548c701a172875c89736972d3fa8e928903801",
-        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-        "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
-      }
-    },
-    {
-      "story_id": "story_cbd2dae96215",
-      "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-      "url": "https://www.aibase.com/news/31923",
-      "primary_url": "https://www.aibase.com/news/31923",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_zh": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_en": null,
-          "title_original": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T06:51:33.238803Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_zh": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_en": null,
-          "title_original": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T06:51:33.238803Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T06:51:33.238803Z",
-      "latest_at": "2026-10-28T06:51:33.238803Z",
-      "primary_item": {
-        "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-        "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "title_zh": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "title_en": null,
-        "title_original": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31923",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -1433,15 +1432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.7647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1466,7 +1465,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
@@ -1518,15 +1517,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9105,
+        "recency": 0.8536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1551,115 +1550,115 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
-      "story_id": "story_45e262b82d9e",
-      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-      "url": "https://x.com/GeminiApp/status/2115171788812669225",
-      "primary_url": "https://x.com/GeminiApp/status/2115171788812669225",
-      "source": "X：Gemini (@GeminiApp)",
+      "story_id": "story_53c724770993",
+      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
-          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-          "title_zh": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-          "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-          "title_original": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-          "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
+          "id": "91548c701a172875c89736972d3fa8e928903801",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2115171788812669225",
-          "source": "X：Gemini (@GeminiApp)",
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T20:00:27Z",
+          "published_at": "2026-10-27T12:37:24Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Gemini (@GeminiApp)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
-          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-          "title_zh": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-          "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-          "title_original": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-          "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
+          "id": "91548c701a172875c89736972d3fa8e928903801",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2115171788812669225",
-          "source": "X：Gemini (@GeminiApp)",
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T20:00:27Z",
+          "published_at": "2026-10-27T12:37:24Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.855,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T20:00:27Z",
-      "latest_at": "2026-10-27T20:00:27Z",
+      "earliest_at": "2026-10-27T12:37:24Z",
+      "latest_at": "2026-10-27T12:37:24Z",
       "primary_item": {
-        "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
-        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-        "title_zh": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-        "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-        "title_original": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-        "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
+        "id": "91548c701a172875c89736972d3fa8e928903801",
+        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+        "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/GeminiApp/status/2115171788812669225",
-        "source": "X：Gemini (@GeminiApp)",
+        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     },
     {
-      "story_id": "story_18ba9571d7f5",
-      "title": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
-      "url": "https://www.aibase.com/news/31922",
-      "primary_url": "https://www.aibase.com/news/31922",
+      "story_id": "story_2a35071feaa9",
+      "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+      "url": "https://www.aibase.com/news/31933",
+      "primary_url": "https://www.aibase.com/news/31933",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "71b7c3a74eda8cfc370c71577aba4d531faf2e61",
-          "title": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
-          "title_zh": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
           "title_en": null,
-          "title_original": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+          "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31922",
+          "url": "https://www.aibase.com/news/31933",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-28T06:51:33.238803Z",
+          "published_at": "2026-10-28T11:19:49.011915Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1670,18 +1669,18 @@
       ],
       "items": [
         {
-          "id": "71b7c3a74eda8cfc370c71577aba4d531faf2e61",
-          "title": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
-          "title_zh": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
           "title_en": null,
-          "title_original": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+          "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31922",
+          "url": "https://www.aibase.com/news/31933",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-28T06:51:33.238803Z",
+          "published_at": "2026-10-28T11:19:49.011915Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1704,17 +1703,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T06:51:33.238803Z",
-      "latest_at": "2026-10-28T06:51:33.238803Z",
+      "earliest_at": "2026-10-28T11:19:49.011915Z",
+      "latest_at": "2026-10-28T11:19:49.011915Z",
       "primary_item": {
-        "id": "71b7c3a74eda8cfc370c71577aba4d531faf2e61",
-        "title": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
-        "title_zh": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+        "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+        "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+        "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
         "title_en": null,
-        "title_original": "DeepSeek V5 惊现官方代码库，外界猜 11 月见真章",
+        "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31922",
+        "url": "https://www.aibase.com/news/31933",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1722,7 +1721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T06:52:35.231023Z"
+        "scored_at": "2026-10-28T11:21:58.636262Z"
       }
     }
   ]
