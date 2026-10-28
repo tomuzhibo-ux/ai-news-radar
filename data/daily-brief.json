@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:19:49.011915Z",
+  "generated_at": "2026-10-28T14:00:54.000871Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9739,
+        "recency": 0.9369,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7587,
+        "recency": 0.7299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8203,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7567,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7706,
+        "recency": 0.7413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -573,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9375,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -659,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7456,
+        "recency": 0.7172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,7 +694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -746,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8439,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -832,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -918,21 +918,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T06:15:43Z",
       "latest_at": "2026-10-28T06:15:43Z",
@@ -952,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -1004,21 +1003,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8112,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T23:31:32Z",
       "latest_at": "2026-10-27T23:31:32Z",
@@ -1038,7 +1036,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
+      }
+    },
+    {
+      "story_id": "story_96589410c307",
+      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
+          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_en": null,
+          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T11:38:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
+          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_en": null,
+          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T11:38:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9663,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T11:38:17Z",
+      "latest_at": "2026-10-28T11:38:17Z",
+      "primary_item": {
+        "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
+        "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "title_en": null,
+        "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -1090,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7658,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1123,7 +1206,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -1175,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,93 +1291,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
-      }
-    },
-    {
-      "story_id": "story_d21648743048",
-      "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-      "url": "https://www.aibase.com/news/31927",
-      "primary_url": "https://www.aibase.com/news/31927",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0558c9d89b595b15643bdad3938145652227f710",
-          "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-          "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-          "title_en": null,
-          "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31927",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T11:19:49.011915Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0558c9d89b595b15643bdad3938145652227f710",
-          "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-          "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-          "title_en": null,
-          "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31927",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T11:19:49.011915Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T11:19:49.011915Z",
-      "latest_at": "2026-10-28T11:19:49.011915Z",
-      "primary_item": {
-        "id": "0558c9d89b595b15643bdad3938145652227f710",
-        "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-        "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-        "title_en": null,
-        "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31927",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -1346,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8646,
+        "recency": 0.8318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,262 +1377,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
-      "story_id": "story_9a537d6a9ade",
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-      "url": "https://www.langchain.com/blog/design-agent",
-      "primary_url": "https://www.langchain.com/blog/design-agent",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d21648743048",
+      "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+      "url": "https://www.aibase.com/news/31927",
+      "primary_url": "https://www.aibase.com/news/31927",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "title_en": "How We Built Our Design Agent",
-          "title_original": "How We Built Our Design Agent",
-          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+          "id": "0558c9d89b595b15643bdad3938145652227f710",
+          "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_en": null,
+          "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z",
+          "url": "https://www.aibase.com/news/31927",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LangChain：Blog（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "title_en": "How We Built Our Design Agent",
-          "title_original": "How We Built Our Design Agent",
-          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+          "id": "0558c9d89b595b15643bdad3938145652227f710",
+          "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "title_en": null,
+          "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z",
+          "url": "https://www.aibase.com/news/31927",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7647,
+        "recency": 0.962,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-27T16:45:00Z",
-      "latest_at": "2026-10-27T16:45:00Z",
+      "earliest_at": "2026-10-28T11:19:49.011915Z",
+      "latest_at": "2026-10-28T11:19:49.011915Z",
       "primary_item": {
-        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-        "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-        "title_en": "How We Built Our Design Agent",
-        "title_original": "How We Built Our Design Agent",
-        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-        "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/design-agent",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
-      }
-    },
-    {
-      "story_id": "story_2a7e6e635702",
-      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "title_zh": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "title_en": null,
-          "title_original": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T00:22:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "title_zh": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "title_en": null,
-          "title_original": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T00:22:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8536,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T00:22:00Z",
-      "latest_at": "2026-10-28T00:22:00Z",
-      "primary_item": {
-        "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-        "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-        "title_zh": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+        "id": "0558c9d89b595b15643bdad3938145652227f710",
+        "title": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+        "title_zh": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
         "title_en": null,
-        "title_original": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-        "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
+        "title_original": "Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31927",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
-      }
-    },
-    {
-      "story_id": "story_53c724770993",
-      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7204,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T12:37:24Z",
-      "latest_at": "2026-10-27T12:37:24Z",
-      "primary_item": {
-        "id": "91548c701a172875c89736972d3fa8e928903801",
-        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-        "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     },
     {
@@ -1687,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1721,7 +1549,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T11:21:58.636262Z"
+        "scored_at": "2026-10-28T14:02:20.861671Z"
+      }
+    },
+    {
+      "story_id": "story_fad25f4d90a6",
+      "title": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+      "url": "https://www.aibase.com/news/31925",
+      "primary_url": "https://www.aibase.com/news/31925",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2eb5adb133a8354b521fe3c070c403593b325129",
+          "title": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+          "title_zh": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+          "title_en": null,
+          "title_original": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31925",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2eb5adb133a8354b521fe3c070c403593b325129",
+          "title": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+          "title_zh": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+          "title_en": null,
+          "title_original": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31925",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.962,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T11:19:49.011915Z",
+      "latest_at": "2026-10-28T11:19:49.011915Z",
+      "primary_item": {
+        "id": "2eb5adb133a8354b521fe3c070c403593b325129",
+        "title": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+        "title_zh": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+        "title_en": null,
+        "title_original": "下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31925",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T14:02:20.861671Z"
+      }
+    },
+    {
+      "story_id": "story_7bef45631a41",
+      "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+      "url": "https://www.aibase.com/news/31931",
+      "primary_url": "https://www.aibase.com/news/31931",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "979d0309f1f3ba384f53790a0e9efa456f0be9b6",
+          "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+          "title_zh": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+          "title_en": null,
+          "title_original": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31931",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "979d0309f1f3ba384f53790a0e9efa456f0be9b6",
+          "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+          "title_zh": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+          "title_en": null,
+          "title_original": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31931",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:19:49.011915Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.962,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T11:19:49.011915Z",
+      "latest_at": "2026-10-28T11:19:49.011915Z",
+      "primary_item": {
+        "id": "979d0309f1f3ba384f53790a0e9efa456f0be9b6",
+        "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+        "title_zh": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+        "title_en": null,
+        "title_original": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31931",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T14:02:20.861671Z"
       }
     }
   ]
