@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:26:54.258134Z",
+  "generated_at": "2026-10-29T07:04:51.887825Z",
   "date": "2026-10-29",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T02:25:47.976484Z"
+      "observed_at": "2026-10-29T07:04:04.157453Z"
     },
     {
-      "id": "project_ca9a4b0ae9e8",
-      "project_name": "Hob",
-      "url": "https://www.producthunt.com/products/hob-3",
-      "summary": "Open-source, on device alternative to Claude and ChatGPT",
+      "id": "project_fdd47e1cd5ce",
+      "project_name": "Suno MCP",
+      "url": "https://www.producthunt.com/products/suno",
+      "summary": "The music layerfor your AI stack",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open-source, on device alternative to Claude and ChatGPT」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open-source, on device alternative to Claude and ChatGPT\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T16:38:07Z",
-      "updated_at": "2026-10-29T00:37:16Z",
+      "recommend_reason_zh": "体验它主打的「The music layerfor your AI stack」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The music layerfor your AI stack\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T18:33:54Z",
+      "updated_at": "2026-10-29T07:04:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T02:26:42.524901Z"
+      "observed_at": "2026-10-29T07:04:40.471486Z"
     },
     {
       "id": "project_e2469c92ba3c",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T02:25:47.976484Z"
+      "observed_at": "2026-10-29T07:04:04.157453Z"
     },
     {
-      "id": "project_3d5c294b33c7",
-      "project_name": "Open For sales",
-      "url": "https://www.producthunt.com/products/open-for-sales",
-      "summary": "Your next sales campaign is one prompt away",
+      "id": "project_6e30af5aa325",
+      "project_name": "Floot in ChatGPT",
+      "url": "https://www.producthunt.com/products/floot",
+      "summary": "Build and publish real apps without leaving ChatGPT",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your next sales campaign is one prompt away」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your next sales campaign is one prompt away\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-27T15:27:12Z",
-      "updated_at": "2026-10-29T00:22:48Z",
+      "recommend_reason_zh": "体验它主打的「Build and publish real apps without leaving ChatGPT」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build and publish real apps without leaving ChatGPT\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T20:14:10Z",
+      "updated_at": "2026-10-29T07:04:30Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T02:26:42.524901Z"
+      "observed_at": "2026-10-29T07:04:40.471486Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 168,
+      "duration_ms": 1195,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 334,
+      "duration_ms": 230,
       "error": null
     }
   ]
